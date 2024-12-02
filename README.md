@@ -25,11 +25,15 @@
 <h2 align="center">🚀Languages💥Frameworks💥Tools🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,firebase,mongodb,nextjs" /><br/>
  <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
+</div>
+<br/>
+
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api?username=mubashirjawed&show_icons=true&locale=en" alt="mubashirjawed" /></p>
 </div>
 
 <br/>
-<hr/>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzeen-alii&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-alii&hide_progress=true) -->
