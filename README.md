@@ -34,6 +34,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=mubashirjawed&show_icons=true&locale=en" alt="mubashirjawed" /></p>
 </div>
 
-<br/>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzeen-alii&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-alii&hide_progress=true) -->
